@@ -39,3 +39,7 @@ https://davi-vendas.netlify.app/
 ## Front end
  - HTML / CSS / JS / TypeScript
  - ReactJS
+## Implantação em produção
+ - Back end: Heroku
+ - Front end web: Netlify
+ - Banco de dados: Postgresql
