@@ -1,7 +1,11 @@
 # projetosds3
 Dashboard de vendas
 
+Link do projeto:
+
 https://davi-vendas.netlify.app/
+
+![DSvendas2](https://user-images.githubusercontent.com/86566715/145920072-776afdfc-955e-4cec-994d-47950514e1e2.PNG)
 
 # Criar projetos backend e frontend:
 
